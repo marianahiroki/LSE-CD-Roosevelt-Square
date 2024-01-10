@@ -65,3 +65,4 @@ Franklin Roosevelt Square: A Public Space Resistance in Sao Paulo City Centre wa
 
 - Initiatives like protests and community events can effectively activate the space and foster inclusivity. Leveraging online platforms, leaflets, and other communication channels can promote these events.
 - For researchers interested in studying this square, it's highly recommended to thoroughly examine available data, especially its evolution over time, along with the evolving perceptions of the square and its immediate surroundings.
+- Proposing future research approaches, including ethnographic studies attending neighbourhood meetings, engaging with square and park associations, conversing with regular users, and exploring other urban spaces to analyze changing user sentiments during the pandemic in Sao Paulo's city centre.
