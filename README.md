@@ -27,6 +27,14 @@ Franklin Roosevelt Square: A Public Space Resistance in Sao Paulo City Centre wa
 
 <sub>Municipal Culture Spaces (theatres, cinemas, libraries, archives, galleries, multipurpose spaces, concert halls, museums) with emphasis on the Se Subprefecture known as Sao Paulo city centre. (Base maps: Sao Paulo Prefecture Open Data and Geosampa; Overlay: Author, 2022)</sub>
 
+<img src="https://github.com/marianahiroki/LSE-CD-Roosevelt-Square/assets/110165879/5c51d6eb-2df9-44e8-a2a5-434e37ba02b8" width="500">
+
+<sub>Concentration Points for the homeless population. (Base map: Sao Paulo Prefecture Open Data; Overlay: Author, 2022)</sub>
+
+![image](https://github.com/marianahiroki/LSE-CD-Roosevelt-Square/assets/110165879/43330784-4327-48e6-b9e5-17b80b5f54a1)
+
+<sub>Roosevelt Square location. It is a large slab with highways in the underground. (Base map: Sao Paulo Prefecture Open Data, Geosampa and GoogleMaps; Overlay: Author, 2022)</sub>
+
 ## Key Learnings/Insights: ##
 
 Present the main findings and insights derived from the data.
