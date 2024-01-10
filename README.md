@@ -19,7 +19,7 @@ Franklin Roosevelt Square: A Public Space Resistance in Sao Paulo City Centre wa
 - Data sources included academic works, surveys and open data, mostly sourced from the Sao Paulo Prefecture Open Data and Geosampa website.
 - The following maps, produced with QGIS and numerous sources, aided in understanding the context of Rosevelt Square in its municipality.
 
-<img src="https://github.com/marianahiroki/LSE-CD-Roosevelt-Square/assets/110165879/8b6a6e04-1fdf-4bb4-9b58-feaaed6b3f01" width="100">
+<img src="https://github.com/marianahiroki/LSE-CD-Roosevelt-Square/assets/110165879/8b6a6e04-1fdf-4bb4-9b58-feaaed6b3f01" width="300">
 
 <sub>Grant Value through the Municipality of Sao Paulo. It is an instrument established by the Cities Statute (federal law 10.257/01) that grants the property owner the right to build beyond the basic constructive potential upon payment of a financial consideration that follows the land values. (Base maps: Sao Paulo Prefecture Open Data and Geosampa; Overlay: Author, 2022)</sub>
 
