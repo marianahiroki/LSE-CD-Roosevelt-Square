@@ -10,9 +10,8 @@ Franklin Roosevelt Square: A Public Space Resistance in Sao Paulo City Centre wa
 
 ## Objectives: ##
 
-- Understanding the socio-spatial dynamics in this public space through the years and its impact on the surroundings.
-- To answer the question who and how the main players are responsible for transforming and partially controlling the square?
-- Socio-Spatial Analysis: Emphasis on diverse methods for understanding sites, exploring procedural and formal intervention possibilities, encompassing spatial design models, city-making practices, and public/private actions.
+- Understanding the socio-spatial dynamics in this public space over time and its influence on the surrounding areas.
+- Addressing inquiries about the key actors and their roles in the transformation and partial governance of the square.
 
 ## Data Collection and Analysis: ##
 
@@ -35,28 +34,34 @@ Franklin Roosevelt Square: A Public Space Resistance in Sao Paulo City Centre wa
 
 <sub>Roosevelt Square location. It is a large slab with highways in the underground. (Base map: Sao Paulo Prefecture Open Data, Geosampa and GoogleMaps; Overlay: Author, 2022)</sub>
 
+![image](https://github.com/marianahiroki/LSE-CD-Roosevelt-Square/assets/110165879/41b100b7-0103-47e1-afe5-cecac4062263)
+
+<sub>Police base inside and around Roosevelt Square contrasting with the homeless population location. (Base map: Sao Paulo Prefecture Open Data and Geosampa; Overlay: Author, 2022)</sub>
+
+![image](https://github.com/marianahiroki/LSE-CD-Roosevelt-Square/assets/110165879/7761d916-0fd5-43c3-8219-6923899867da)
+
+<sub>Theatres locations around Roosevelt Square. (Base map: Sao Paulo Prefecture Open Data and Geosampa; Overlay: Author, 2022)</sub>
+
 ## Key Learnings/Insights: ##
 
-Present the main findings and insights derived from the data.
-Showcase any unexpected discoveries or patterns identified.
-Bullet points: 4-6 significant learnings to capture attention.
+- **Dictatorship-Era Urban Development:** Focus on motorways and elite interests shaped Praca Franklin Roosevelt, undermining its democratic symbolism as a public space.
+- **Unfair Design Changes:** Issues arose from an unfair design process, lack of community involvement, and police presence, contradicting the space's democratic essence.
+- **Public-Private Partnership Impact:** Entrepreneurial urban governance led to a public-private partnership as the sole solution for maintaining space "quality," exacerbating exclusion among specific societal groups.
 
 ## Impact/Results: ##
 
-Discuss the tangible outcomes or impact of your project.
-Quantify results where possible (percentage improvements, cost savings, etc.).
-Include any real-world applications or changes resulting from your findings.
-Bullet points: 3-5 impactful results or changes observed.
+- **Square Usage & Perceptions:** Despite being residents, users visit the square infrequently due to perceived safety concerns and limited amenities. The majority spend an hour or more for social gatherings or cultural events but express dissatisfaction with the square's maintenance and safety, which requires more police presence and better lighting.
+- **Square Improvement Suggestions:** Participants suggest increased police surveillance, improved lighting, and more cultural events. However, debates persist on the efficacy of these measures in enhancing safety due to social disparities and ineffective governance. Augusta Park's (very close to Roosevelt Square location) recent opening offers an alternative space, perceived as a triumph by some but criticized for reinforcing societal exclusions.
+- **Gentrification and Changing Urban Dynamics:** A shift in Sao Paulo's city centre toward gentrification is marked by developments and the establishment of new "green spaces." Questions arise regarding the future direction of global cities and the exacerbation of societal disparities through such urban changes.
+- A truly public and democratic space thrives when diverse groups use it without prejudice, benefitting themselves and others. Encouraging diverse use and providing affordable cultural spaces, services, and housing nearby can enhance the sense of safety and inclusivity.
 
 ## Challenges and Solutions: ##
 
-Address obstacles encountered during the project.
-Detail how you overcame challenges or adapted strategies.
-Bullet points: 2-3 key challenges faced and their respective solutions.
+- In academic work, offering reciprocity to survey or interview participants can be challenging. Initially, eliciting responses for my online survey was difficult, and some participants, particularly academics, requested access to the final paper.
+- The findings from this survey may be influenced by methodological biases. Conducting further in-person research could yield a more comprehensive understanding of the square's dynamics and the needs of the community. Given that this research took place during the COVID-19 pandemic, reaching individuals without internet access was particularly challenging.
+- Some of the specific data I sought was hard to find. It seems that the websites I used have undergone updates since my last review.
 
 ## Future Steps/Recommendations: ##
 
-Suggest potential follow-up actions or areas for further exploration.
-Offer recommendations based on the project's findings.
-Bullet points: 2-4 actionable recommendations for future steps.
-Remember, the aim is to provide enough information to convey the project's significance and findings without overwhelming the reader. Use bullet points judiciously to present key highlights concisely, and consider supplementing these with visuals like graphs or charts for a more engaging presentation of your data.
+- Initiatives like protests and community events can effectively activate the space and foster inclusivity. Leveraging online platforms, leaflets, and other communication channels can promote these events.
+- For researchers interested in studying this square, it's highly recommended to thoroughly examine available data, especially its evolution over time, along with the evolving perceptions of the square and its immediate surroundings.
