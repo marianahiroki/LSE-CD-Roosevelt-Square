@@ -23,7 +23,8 @@ Franklin Roosevelt Square: A Public Space Resistance in Sao Paulo City Centre wa
 
 <sub>Grant Value through the Municipality of Sao Paulo. It is an instrument established by the Cities Statute (federal law 10.257/01) that grants the property owner the right to build beyond the basic constructive potential upon payment of a financial consideration that follows the land values. (Base maps: Sao Paulo Prefecture Open Data and Geosampa; Overlay: Author, 2022)</sub>
 
-![image](https://github.com/marianahiroki/LSE-CD-Roosevelt-Square/assets/110165879/5214e58d-a7f5-48b7-9fdd-867ceca1bc20)
+<img src="https://github.com/marianahiroki/LSE-CD-Roosevelt-Square/assets/110165879/5214e58d-a7f5-48b7-9fdd-867ceca1bc20" width="500">
+
 <sub>Municipal Culture Spaces (theatres, cinemas, libraries, archives, galleries, multipurpose spaces, concert halls, museums) with emphasis on the Se Subprefecture known as Sao Paulo city centre. (Base maps: Sao Paulo Prefecture Open Data and Geosampa; Overlay: Author, 2022)</sub>
 
 ## Key Learnings/Insights: ##
